@@ -1,9 +1,3 @@
-
-/**
- * Program: This is Todo program.
- * Author: Pawan S Devadiga.
- * Date: Today;
- */
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
